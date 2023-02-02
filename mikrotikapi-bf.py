@@ -72,7 +72,7 @@ def usage():
     EXAMPLE
     \t python3 mikrotikapi-bf.py -t 192.168.0.200 -u manager -p 1337 -d /tmp/passwords.txt -s 5
     \t python3 mikrotikapi-bf.py -t 192.168.0.1 -d /tmp/passwords.txt
-    \t python3 mikrotikapi-bf.py -t 192.168.0.1 -d /tmp/passwords.txt -a last.json
+    \t python3 mikrotikapi-bf.py -t 192.168.0.1 -d /tmp/passwords.txt -a /tmp/autosave.json
     ''')
 
 
